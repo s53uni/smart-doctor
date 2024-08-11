@@ -82,7 +82,7 @@
 #### 건강검진 데이터를 활용 예측 모델
 - 국민건강보험공단의 건강검진 데이터를 활용하여 취약 질병을 예측하는 모델을 구현
 - 사용자가 입력한 건강 정보를 바탕으로 가장 흔한 5가지 질병에 걸릴 확률을 결과로 제시
-- XGBoost, RandomForest, AdaBoost를 사용해 실험을 진행하였으며, 가장 높은 정확도를 보인 XGBoost 모델을 최종 모델로 선정
+- XGBoost, RandomForest, AdaBoost 모델로 훈련시켰으며, 가장 높은 정확도를 보인 XGBoost 모델을 최종 모델로 선정
 
 <p align="right"><a href="#top">⬆️TOP</a></p>
 
