@@ -49,7 +49,7 @@
 이러한 문제점을 해결하기 위해 전문적인 의학 정보를 제공하고 사용자의 개별 특성 및 질병 히스토리를 고려한 질병 예측 정보와 질병 치료 정보를 제공하는 웹사이트를 구축하여, 
 사람들이 보다 정확한 의학 및 질병 정보를 얻을 수 있게 한다.
 
-<p align="right"><a href="#top">⬆️TOP</a></p>
+<br>
 
 ## 사용 기술
 ### Back-End
@@ -60,7 +60,7 @@
 * CSS3
 * Javascript
 
-<p align="right"><a href="#top">⬆️TOP</a></p>
+<h5 align="right"><a href="#top">⬆️TOP</a></h5>
 
 ## 개발 방법
 ### AI 진단 서비스
@@ -84,7 +84,7 @@
 - 사용자가 입력한 건강 정보를 바탕으로 가장 흔한 5가지 질병에 걸릴 확률을 결과로 제시
 - XGBoost, RandomForest, AdaBoost 모델로 훈련시켰으며, 가장 높은 정확도를 보인 XGBoost 모델을 최종 모델로 선정
 
-<p align="right"><a href="#top">⬆️TOP</a></p>
+<br>
 
 
 ## 서비스 소개
@@ -92,7 +92,7 @@
 ![진단서비스](https://github.com/user-attachments/assets/7de3b3bb-3ebc-4b3c-85ea-d1a94df5d889)
 ![질병예측서비스](https://github.com/user-attachments/assets/0916f3be-e01e-43c4-bd4a-66eb6be29dac)
 
-<p align="right"><a href="#top">⬆️TOP</a></p>
+<h5 align="right"><a href="#top">⬆️TOP</a></h5>
 
 
 
